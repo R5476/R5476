@@ -40,6 +40,13 @@ Jag studerar **AWS Cloud & AI** på Lexicon (oktober 2026 – mars 2027). Jag ha
 ### EBR & Juridik
 - EBR-systemet, AB04, AMA EL, ABT/AB
 
+### Språk
+- Spanska – modersmål
+- Svenska – flytande
+- Engelska – mycket goda
+- **Norska – goda kunskaper (förstår och talar)**
+- Portugisiska, Italienska, Latin – goda kunskaper
+
 ## Vad jag arbetar med just nu
 - Utbildning inom AWS Cloud & AI på Lexicon
 - Bygger små projekt för att öva på molnarkitektur och AI
