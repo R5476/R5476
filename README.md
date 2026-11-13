@@ -1,62 +1,89 @@
-# Hej, jag är Raymy Doria Medina Pozo 👋
+# Raymy Doria Medina Pozo 👋
 
-Jag studerar **AWS Cloud & AI** på Lexicon (oktober 2026 – mars 2027). Jag har över 10 års samlad erfarenhet inom konsultverksamhet, elinstallation, elkraft, elprojektering, beredning och projektledning – och är nu inriktad mot molnarkitektur och AI.
+**Projektledare Elkraft & Elinstallation | Auktoriserad Elinstallatör (ABL)**  
+**IT/Systemutveckling – Frontend, Backend, AI & AWS Cloud & AI**
 
-## Vad jag kan
+👇 Nedan: projekt som bevisar skills. Allt är gjort av mig.
 
-### Cloud & AWS (pågående)
-- AWS (grundläggande, certifieringsförberedelse)
-- IAM, VPC, S3, Lambda, CloudFormation
-- Molnarkitektur, Infrastructure as Code
+## 🚀 Projekt (bevis på skills)
 
-### Programmering
-- Java, JavaScript, HTML, CSS, PHP, C#, MATLAB
-- Git, GitHub
+### 💻 Frontend & backend
+| Projekt | Vad det visar | Teknik |
+|---------|---------------|--------|
+| **[vuepraktik](https://github.com/R5476/vuepraktik)** | Vue.js mot REST-API | Vue.js 3, Axios, Babel |
 
-### Linux & virtuella maskiner
-- Linux (Ubuntu) – kommandoraden, filsystem, behörigheter
-- Installation och konfiguration av webbserver (Apache/Nginx) för PHP
-- Virtuella maskiner (VirtualBox/VMware)
-- Serveradministration (grundläggande)
+*(Fler projekt läggs till eftersom de skapas: aws-labs, elkonstruktion-exempel, elinstallation-exempel, projektledning-elkraft, entreprenadjuridik, projektering-exempel, beredning-exempel, kalkyl-mallar, natstation-exempel.)*
 
-### AI & verktyg
-- ChatGPT, Claude AI, DeepSeek, Promptdesign
-- Google AI Studio, Gemini
-- AutoCAD MCP, Eplan Copilot, Engichat
-- Trimble Connect Planner (4D)
+## 🛠️ Tekniska färdigheter
 
-### System
-- Windows, Microsoft 365
-- PLC, Connect IT, Adobe DC
-- Microsoft Office (Excel, Word, PowerPoint)
+### ☁️ Cloud & AI
 
-### El & CAD
-- DIALux, AutoCAD, MagiCAD, AvCAD, Elvis, DP Power
-- GIS-system
+**AWS Cloud & AI:** Arkitektur: VPC-design (publika/privata subnät, Internet Gateway, NAT) · IAM (roller, policies, least privilege) · S3 (bucket policies, static hosting) · Lambda (serverless) · CloudFormation (Infrastructure as Code) · High Availability & fault tolerance · Cost optimization · Säkerhet & compliance. Certifiering: AWS Cloud & AI – Lexicon (pågående). AI-verktyg: ChatGPT, Claude AI, DeepSeek, Promptdesign, Google AI Studio, Gemini, AutoCAD MCP, Eplan Copilot, Engichat, Trimble Connect Planner (4D)
 
-### Projektstyrning
-- PPM, Föranmälan.nu, XPLM, Standardiserad projektmodell
+### 💻 IT/Systemutveckling
 
-### EBR & Juridik
-- EBR-systemet, AB04, AMA EL, ABT/AB
+**Frontend:** React · Vue · JavaScript · HTML/CSS  
+**Backend:** Node.js · PHP · Python · MySQL · Java · C#  
+**Fullstack-plattformar:** Open Ocean · Latin Flow · The Continuator  
+**Linux & servrar:** Ubuntu · Apache/Nginx · Virtuella maskiner (VirtualBox, VMware)  
+**Verktyg:** Git · GitHub · VS Code · Visual Studio · Babel · ESLint · Axios
 
-### Språk
-- Spanska – modersmål
-- Svenska – flytande
-- Engelska – mycket goda
-- **Norska – goda kunskaper (förstår och talar)**
-- Portugisiska, Italienska, Latin – goda kunskaper
+### ⚡ Elingenjör – Elkonstruktion
 
-## Vad jag arbetar med just nu
-- Utbildning inom AWS Cloud & AI på Lexicon
-- Bygger små projekt för att öva på molnarkitektur och AI
+**Arbetsuppgifter:** Dimensionering · Nätberäkningar (HSP/LSP) · Selektivitet · Transformatorer · Luftledning · Jordkabel · Ställverk · Elskåp · Servisskåp · Nätlinjeschema · Nätstationer · Kabeldimensionering · Skyddsberäkning  
+**Verktyg:** AutoCAD · dpPower · GIS · EBR-systemet
 
-## Certifikat
-- ABL – Allmän behörig elinstallatör (Elsäkerhetsverket, 2016)
-- Bas-P / Bas-U (E.ON, 2017)
-- ESA (Infratek, 2017)
-- B-körkort, Liftkort
+### 🔌 Elingenjör – Elinstallation (ABL)
 
-## Kontakt
-- LinkedIn: linkedin.com/in/raymy-doria-medina-8462a528b
-- E-post: raymydoriamedina@hotmail.com
+**ABL – Allmän behörig elinstallatör (Elsäkerhetsverket, 2016)**  
+**ECY – Certifikat Elektriker Elteknik (2011)**  
+**Arbetsuppgifter:** ROT · DALI/KNX · Laddbox · Solceller · Service · Underhåll · Felsökning · Driftsättning · Egenkontroll · Färdiganmälan  
+**Verktyg:** DALI/KNX-programmering · egenkontrollprogram · Microsoft Office
+
+### 📐 Projektering
+
+**Arbetsuppgifter:** Ritningar & handlingar · Gruppförteckningar · Belysningsberäkning · El- och telesystem · Nödbelysning · Fastighetsautomation  
+**Verktyg:** AutoCAD · MagiCAD · AvCAD · DIALux · Elvis
+
+### 📊 Beredning
+
+**Arbetsuppgifter:** Beredning av lokalnät (0,4–24 kV) · Elanslutningsärenden · Anbudsarbete · Kalkylering & mängdning (AB 04, AMA EL) · Föranmälan & egenkontroll · Samordning med markägare, beställare, kommun, myndigheter och entreprenörer  
+**Verktyg:** EBR-systemet · XPLM · Föranmälan.nu · Excel · Word
+
+### 📋 Projektledning
+
+**Arbetsuppgifter:** Tidplan · Kvalitet · Ekonomi · Säkerhet · Riskhantering · ÄTA (AB 04, ABT 06) · Samordning · Konsulttjänster  
+**Verktyg:** PPM · XPLM · Föranmälan.nu · Excel · Word · PowerPoint
+
+### 📈 Kalkylering
+
+**Arbetsuppgifter:** Kabeldimensionering · Skyddsberäkning · Mängdning · Anbudsarbete (AB 04, AMA EL)  
+**Verktyg:** Excel · DP Power
+
+### ⚖️ Juridik
+
+**AB 04 · ABT 06 · AMA EL · ESA · BAS-P/U**  
+**Juristutbildad (5 år, Univalle, Bolivia)** med erfarenhet av avtalsrätt, entreprenadjuridik och allmän juridisk rådgivning.
+
+## 🎓 Utbildning & certifikat
+
+- **AWS Cloud & AI** – Lexicon (oktober 2026 – mars 2027), pågående
+- **Programmering & Systemutvecklare** – NTI / ASTRA, Stockholm (2024)
+- **HTML / Java Programmering** – Institut Code, Dublin (2019)
+- **Elingenjör** – STI, Stockholm (2012–2014)
+- **Eltekniker** – Lernia, Stockholm (2009–2010)
+- **Juristutbildning (5 år)** – Univalle, Bolivia (1999–2003)
+- **ABL** – Allmän behörig elinstallatör (Elsäkerhetsverket, 2016)
+- **ECY** – Certifikat Elektriker Elteknik (2011)
+- **Bas-P / Bas-U** (E.ON, 2017)
+- **ESA** (Infratek, 2017)
+- **B-körkort, Liftkort**
+
+## 🌍 Språk
+
+Spanska (modersmål) · Svenska (flytande) · Engelska (Professional Working) · Norska (goda) · Portugisiska, Italienska, Latin (goda)
+
+## 📫 Kontakt
+
+- **LinkedIn:** [linkedin.com/in/raymy-doria-medina-8462a528b](https://linkedin.com/in/raymy-doria-medina-8462a528b)
+- **E-post:** raymydoriamedina@hotmail.com
