@@ -18,7 +18,7 @@
 
 ### ☁️ Cloud & AI
 
-**AWS Cloud & AI:** Arkitektur: VPC-design (publika/privata subnät, Internet Gateway, NAT) · IAM (roller, policies, least privilege) · S3 (bucket policies, static hosting) · Lambda (serverless) · CloudFormation (Infrastructure as Code) · High Availability & fault tolerance · Cost optimization · Säkerhet & compliance. Certifiering: AWS Cloud & AI – Lexicon (pågående). AI-verktyg: ChatGPT, Claude AI, DeepSeek, Promptdesign, Google AI Studio, Gemini, AutoCAD MCP, Eplan Copilot, Engichat, Trimble Connect Planner (4D)
+**AWS Cloud & AI:** Arkitektur: VPC-design (publika/privata subnät, Internet Gateway, NAT) · IAM (roller, policies, least privilege) · S3 (bucket policies, static hosting) · Lambda (serverless) · CloudFormation (Infrastructure as Code) · High Availability & fault tolerance · Cost optimization · Säkerhet & compliance. AI-verktyg: ChatGPT, Claude AI, DeepSeek, Promptdesign, Google AI Studio, Gemini, AutoCAD MCP, Eplan Copilot, Engichat, Trimble Connect Planner (4D)
 
 ### 💻 IT/Systemutveckling
 
@@ -67,7 +67,7 @@
 
 ## 🎓 Utbildning & certifikat
 
-- **AWS Cloud & AI** – Lexicon (oktober 2026 – mars 2027), pågående
+- **AWS Cloud & AI** – Lexicon (oktober 2026 – mars 2027)
 - **Programmering & Systemutvecklare** – NTI / ASTRA, Stockholm (2024)
 - **HTML / Java Programmering** – Institut Code, Dublin (2019)
 - **Elingenjör** – STI, Stockholm (2012–2014)
